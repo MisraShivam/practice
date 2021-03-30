@@ -6,4 +6,4 @@ def add(x,y):
 
 #2 need to implement this
 def mult(x,y):
-  return None
+  return x*y
